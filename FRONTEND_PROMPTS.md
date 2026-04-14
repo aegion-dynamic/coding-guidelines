@@ -9,4 +9,6 @@ Ensure that all the components use shadcnui and reuse as much of the @frontend/s
 don't  create any server pages since we use the nimbus backend to serve data. All the sample data should be jsons that are fed to the components in the pages. All the api calls should just be stubs that we will fill out with the correct api calls. 
 
 Make sure that all the application specific components are created in the directory `frontend/src/components/application`
+
+Add all the sample data json to @frontend/src/data
 ```
